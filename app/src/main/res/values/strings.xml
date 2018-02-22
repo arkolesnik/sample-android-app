@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WifiNetworkApp</string>
+    <string name="wifi_ssid">Wifi SSID</string>
+    <string name="connect">Connect</string>
+    <string name="add_wifi">Add WiFi</string>
+    <string name="text_view_str">SSID:</string>
+</resources>
